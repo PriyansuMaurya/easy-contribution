@@ -16,7 +16,7 @@ Welcome to the simplest guide on how to contribute to any project. This guide wi
 - [Feedback and Completion](#feedback-and-completion-)
   - [Wait for Review](#7-wait-for-review-)
   - [Respond to Feedback](#8-respond-to-feedback-)
-  - [Congratulations!](#9-congratulations-)
+  - [Congratulations!](#9-hurray!-you've-made-your-first-contribution.-)
 - [Bonus Tip](#bonus-tip-)
 - [Explore the Repository](#explore-the-repository-)
 
@@ -61,8 +61,9 @@ OR
 ### 3. Create a Feature Branch 🌿
 
 <div style="text-align: center;">
-
+  
    <img src="https://github.com/PriyansuMaurya/easy-contribution/assets/101447544/b2b97fee-2752-42cb-b7cc-48bff571cb0a" alt="Step 5" />
+   
 </div>
 
 ### 4. Start Hacking! 💡
@@ -146,6 +147,8 @@ If you prefer not to work in the browser-based VS Code, you can open the command
    <img src="https://github.com/PriyansuMaurya/easy-contribution/assets/101447544/be0f98fa-c965-4e3e-99da-cbab52d28953" alt="Tip 4" />
 
 </div>
+
+
 
    **Note:** It takes around 1-1.5 minutes to fully load the repository on VS Code desktop. ⏳
 
