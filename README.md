@@ -2,6 +2,8 @@
 
 Welcome to the simplest guide on how to contribute to any project. This guide will walk you through the process of making your first contribution. The best part is, you don't need to worry about installing anything like Git, Node.js, or Python.
 
+![github codespaces and gitpod ](https://github.com/PriyansuMaurya/easy-contribution/assets/101447544/857bafcc-49c8-475d-ac1a-d997748a2d6f)
+
 ## Table of Contents 📜
 
 - [Getting Started](#getting-started-)
@@ -155,3 +157,4 @@ If you prefer not to work in the browser-based VS Code, you can open the command
 ## Explore the Repository 🌐
 
 Feel free to explore my [dedicated Git repository](https://github.com/PriyansuMaurya/play-with-git) for experimentation. You can do anything you want—literally anything. I would be happy to interact with you. 😊
+
