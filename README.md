@@ -4,22 +4,21 @@ Welcome to the simplest guide on how to contribute to any project. This guide wi
 
 ## Table of Contents 📜
 
-- [Getting Started](#getting-started)
-  - [Fork the Repository](#1-fork-the-repository)
-  - [Create a Gitpod/Codespace](#2-create-a-gitpodcodespace)
-- [Making Changes](#making-changes)
-  - [Create a Feature Branch](#3-create-a-feature-branch)
-  - [Start Hacking!](#4-start-hacking)
-  - [Commit Your Changes](#5-commit-your-changes)
-- [Contributing](#contributing)
-  - [Open the Feature Branch and Contribute](#6-open-the-feature-branch-and-contribute)
-  - [Create a Pull Request](#7-create-a-pull-request)
-- [Feedback and Completion](#feedback-and-completion)
-  - [Wait for Review](#8-wait-for-review)
-  - [Respond to Feedback](#9-respond-to-feedback)
-  - [Congratulations!](#10-congratulations)
-- [Bonus Tip](#bonus-tip)
-- [Explore the Repository](#explore-the-repository)
+- [Getting Started](#getting-started-🚀)
+  - [Fork the Repository](#1-fork-the-repository-🍴)
+  - [Create a Gitpod/Codespace](#2-create-a-gitpodcodespace-🚀)
+- [Making Changes](#making-changes-🛠️)
+  - [Create a Feature Branch](#3-create-a-feature-branch-🌿)
+  - [Start Hacking!](#4-start-hacking-💡)
+  - [Commit Your Changes](#5-commit-your-changes-💾)
+- [Contributing](#contributing-🤝)
+  - [Create a Pull Request](#6-create-a-pull-request-📥)
+- [Feedback and Completion](#feedback-and-completion-🚀)
+  - [Wait for Review](#7-wait-for-review-🕒)
+  - [Respond to Feedback](#8-respond-to-feedback-📣)
+  - [Congratulations!](#9-congratulations-🎉)
+- [Bonus Tip](#bonus-tip-💡)
+- [Explore the Repository](#explore-the-repository-🌐)
 
 ## Getting Started 🚀
 
@@ -120,13 +119,13 @@ Mention the issue number in the description if your pull request addresses a spe
 
 ## Feedback and Completion 🚀
 
-### 8. Wait for Review 🕒
+### 7. Wait for Review 🕒
 
-### 9. Respond to Feedback 📣
+### 8. Respond to Feedback 📣
 
 If the owner or maintainer requests changes, make them in the same branch and commit. No need to create a new pull request this time. 🔄
 
-### 10. Hurray! You've made your first contribution. 🎉
+### 9. Hurray! You've made your first contribution. 🎉
 
 <div style="text-align: center;">
    <img src="https://github.com/PriyansuMaurya/easy-contribution/assets/101447544/a59ffaf4-2b7b-4476-9235-3c80246af89c" alt="Step 14" />
