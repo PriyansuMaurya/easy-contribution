@@ -34,7 +34,13 @@ Welcome to the simplest guide on how to contribute to any project. This guide wi
 <div style="text-align: center;">
    <img src="https://github.com/PriyansuMaurya/easy-contribution/assets/101447544/abfb7d84-fff4-46af-8d18-b8e05c8606f3" alt="Step 2" />
 </div>
-   
+
+OR 
+
+<div style="text-align: center;">
+   <img src="https://github.com/PriyansuMaurya/easy-contribution/assets/101447544/91ffab20-5273-46d4-b40b-c93e6f73bd6c" alt="Step 2" />
+</div>
+
 - Wait for 1 minute ⏳.
 
 <div style="text-align: center;">
