@@ -4,21 +4,21 @@ Welcome to the simplest guide on how to contribute to any project. This guide wi
 
 ## Table of Contents 📜
 
-- [Getting Started](#getting-started-🚀)
-  - [Fork the Repository](#1-fork-the-repository-🍴)
-  - [Create a Gitpod/Codespace](#2-create-a-gitpodcodespace-🚀)
-- [Making Changes](#making-changes-🛠️)
-  - [Create a Feature Branch](#3-create-a-feature-branch-🌿)
-  - [Start Hacking!](#4-start-hacking-💡)
-  - [Commit Your Changes](#5-commit-your-changes-💾)
-- [Contributing](#contributing-🤝)
-  - [Create a Pull Request](#6-create-a-pull-request-📥)
-- [Feedback and Completion](#feedback-and-completion-🚀)
-  - [Wait for Review](#7-wait-for-review-🕒)
-  - [Respond to Feedback](#8-respond-to-feedback-📣)
-  - [Congratulations!](#9-congratulations-🎉)
-- [Bonus Tip](#bonus-tip-💡)
-- [Explore the Repository](#explore-the-repository-🌐)
+- [Getting Started](#getting-started-)
+  - [Fork the Repository](#1-fork-the-repository-)
+  - [Create a Gitpod/Codespace](#2-create-a-gitpodcodespace-)
+- [Making Changes](#making-changes-)
+  - [Create a Feature Branch](#3-create-a-feature-branch-)
+  - [Start Hacking!](#4-start-hacking-)
+  - [Commit Your Changes](#5-commit-your-changes-)
+- [Contributing](#contributing-)
+  - [Create a Pull Request](#6-create-a-pull-request-)
+- [Feedback and Completion](#feedback-and-completion-)
+  - [Wait for Review](#7-wait-for-review-)
+  - [Respond to Feedback](#8-respond-to-feedback-)
+  - [Congratulations!](#9-congratulations-)
+- [Bonus Tip](#bonus-tip-)
+- [Explore the Repository](#explore-the-repository-)
 
 ## Getting Started 🚀
 
